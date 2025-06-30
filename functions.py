@@ -1,5 +1,6 @@
-import random
+# Chapter 3: Functions
 
+import random
 
 def magic_eight(answerNumber):
     if answerNumber == 1:
